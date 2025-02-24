@@ -9,7 +9,7 @@
     "restart": "pm2 restart DINU-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:DINU-baliyes-new",
+    "@whiskeysockets/baileys": "npm:asitha-baliyes-new",
     "@adiwajshing/keyed-db": "latest",
     "pino": "latest",
     "pm2": "latest",
